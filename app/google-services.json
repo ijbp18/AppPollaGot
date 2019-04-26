@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856613840985",
+    "firebase_url": "https://apppollagot.firebaseio.com",
+    "project_id": "apppollagot",
+    "storage_bucket": "apppollagot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856613840985:android:7c8cc3a1e3b97c0b",
+        "android_client_info": {
+          "package_name": "com.example.joao.apppollagot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856613840985-2arimpt4tlt3saji62bgo2hcne0gjm4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joao.apppollagot",
+            "certificate_hash": "4278498797811ba08c196e60d24a1c820ce187bb"
+          }
+        },
+        {
+          "client_id": "856613840985-qilvfap2qfqjhggkt4smffmvqn01deps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Tk4PH-wFZwwkFpbbhfOfNCEs-9FXas4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856613840985-qilvfap2qfqjhggkt4smffmvqn01deps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
